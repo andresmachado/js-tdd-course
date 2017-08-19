@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "JS TDD Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresmachado/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Andre Machado <csantos.machado@gmail.com> (http://github.com/andresmachado)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresmachado/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/andresmachado/js-tdd-course#readme"
+}
